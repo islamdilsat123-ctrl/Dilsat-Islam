@@ -1,0 +1,6 @@
+{
+  "name": "Golpo Kori",
+  "description": "Golpo Kori is a modern, fast, secure, and user-friendly Bengali messaging platform inspired by WhatsApp, featuring real-time chats, status stories, voice/video calls, reactions, and integrated AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
